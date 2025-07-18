@@ -1,3 +1,5 @@
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
 # License Restrictions
 
 This repository and its contents are provided **for personal and educational use only**.
